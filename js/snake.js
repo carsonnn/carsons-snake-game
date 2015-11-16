@@ -1,6 +1,6 @@
 /*
-JavaScript Snake
-By Patrick Gillespie
+JavaScript Snake game edit made by carson
+By Carson:)
 http://patorjk.com/games/snake
 */
 
